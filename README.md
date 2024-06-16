@@ -1,0 +1,1 @@
+# CSV to sql file using python
